@@ -1,5 +1,5 @@
 # Решение задания к лекции «Celery»
-Условия задания описаны в файле (здесь)[https://github.com/netology-code/py-homeworks-web/tree/new/2.4-celery]
+Условия задания описаны в файле [здесь](https://github.com/netology-code/py-homeworks-web/tree/new/2.4-celery)
 
 Чтобы запустить программу необходимо:
 
